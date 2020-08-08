@@ -290,13 +290,13 @@ html {
     left: 35%;
     position: relative;
     min-height: 100vh;
-    padding-bottom: 80px;
+    padding-bottom: 50px;
     border-bottom: 3px solid rgba(250, 250, 250, 0.25);
 }
 
 .section-heading {
     text-align: center;
-    padding: 80px 45px;
+    padding: 23px 0px;
 }
 
 .section-heading h2 {
@@ -373,8 +373,9 @@ button:hover {
 .right-image img {
     border-radius: 5px;
     width: 90%;
-    height: 130%;
+    height: 90%;
     margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .right-image-post h4,
